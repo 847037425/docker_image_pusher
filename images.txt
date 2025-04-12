@@ -7,4 +7,4 @@ xhofe/alist:latest
 --platform=linux/arm64 portainer/portainer-ce
 --platform=linux/arm64 homeassistant/home-assistant
 --platform=linux/arm64 nodered/node-red
---platform=linux/arm64 linkease/ddnsto:3.0.0
+--platform=linux/arm64 linkease/ddnsto
