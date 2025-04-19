@@ -8,3 +8,4 @@ xhofe/alist:latest
 --platform=linux/arm64 homeassistant/home-assistant
 --platform=linux/arm64 nodered/node-red
 --platform=linux/arm64 linkease/ddnsto
+--platform=linux/arm64 dperson/samba
