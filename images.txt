@@ -9,3 +9,4 @@ xhofe/alist:latest
 --platform=linux/arm64 nodered/node-red
 --platform=linux/arm64 linkease/ddnsto
 --platform=linux/arm64 dperson/samba
+--platform=linux/arm64 ngrok/ngrok
